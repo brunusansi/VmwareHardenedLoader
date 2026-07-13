@@ -1,16 +1,10 @@
-[!IMPORTANT]
-
-## 🚀 Looking for the next-generation project?
-
-**Development of VMwareHardenedLoader has effectively moved forward into a more complete and actively developed project:**
-
-### 👉 **https://github.com/templarsco/pvgpu**
-
-**pvgpu** expands on the ideas of VMwareHardenedLoader and aims to provide a more comprehensive virtualization stealth and GPU virtualization framework. While still under active development, it already includes a broader architecture and is intended to supersede many of the techniques used here.
-
-If you're starting a new project or looking for the latest work, **we strongly recommend using pvgpu instead of VMwareHardenedLoader.**
-
-This repository remains available for historical reference, research, and compatibility with existing implementations.
+> ## 🚀 Looking for the next-generation project?
+>
+> **Development has moved to:**
+>
+> ### https://github.com/templarsco/pvgpu
+>
+> **pvgpu** is a more complete project currently under active development and is recommended for new users.
 
 # VMwareHardenedLoader - Modernized Edition
 VMware Hardened VM detection mitigation loader with multi-layer anti-detection system
